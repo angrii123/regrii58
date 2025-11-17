@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1{
+    text-align: center;
+    color: #1d125e;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(239, 48%, 23%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    font-family: century gothic;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: hsl(244, 94%, 12%);
+}
+.navbar li{
+    float: left;
+}
+.background{
+    background-image: url('backg.webp');
+}
+h3{
+    text-align: center;
+}
+p {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: justify;
+}
